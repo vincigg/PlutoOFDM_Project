@@ -5,4 +5,4 @@
 ## Abstract
 Development and implementation of an Orthogonal Frequency Division Multiplexing (OFDM) modulator with a focus on frame synchronization, frequency equalization, and symbol detection, using MATLAB code environment and a single Adalm Pluto SDR.
 
-[PDF File](https://github.com/vincigg/PlutoOFDM_Project/blob/main/TSDC_Project_OFDM-2.pdf)
+[PDF Report](https://github.com/vincigg/PlutoOFDM_Project/blob/main/TSDC_Project_OFDM-2.pdf)
